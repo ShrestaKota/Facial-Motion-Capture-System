@@ -1,2 +1,4 @@
 # Facial-Motion-Capture-System
-Hey
+This project is titled as “Facial Motion Capture System using Deep Learning”. The objective of this project is to develop Automatic Facial Motion Capture System which can take human facial images containing some expression as input and recognize and classify it into seven different expression class such as : Neutral, Angry, Disgust, Fear, Happy, Sadness, Surprise. This project uses machine-learning methods and computer vision to identify Facial Expression from the Input. First, we use a convolutional neural networks to classify human facial key points for each image. We then compare a number of classification algorithms thatuse certain features to predict the Emotion.
+This project architecture shows the procedure followed for breed detectionusing machine learning, starting from input to final prediction.
+![image](https://github.com/user-attachments/assets/416b3aaa-e5bf-451c-bf8b-c7517c4e619c)
